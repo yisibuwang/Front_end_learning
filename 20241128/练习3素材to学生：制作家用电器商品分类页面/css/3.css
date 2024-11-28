@@ -1,0 +1,39 @@
+h2{
+    width: 300px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    line-height: 35px;
+    text-indent: 1em;
+    background-color: blue;
+}
+
+
+h3{
+    width: 300px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 30px;
+    background-color: aqua;
+}
+h3:link{
+    text-decoration: none;
+    color: #0565c6;
+}
+h3:hover{
+    text-decoration: underline;
+}
+
+
+p{
+    font-size: 12px;
+    line-height: 26px;
+}
+P:link{
+    text-decoration: none;
+    color: #666666;
+}
+P:hover{
+    text-decoration: underline;
+    color: #F60;
+}

@@ -1,0 +1,15 @@
+h3{
+    line-height: 40px;
+    font-weight: bold;
+    color:sienna;
+    vertical-align: center;
+}
+p{
+    font-size: 12px;
+    line-height:20px;
+    color:sienna;
+    vertical-align: center;
+}
+img{
+    vertical-align: middle;
+}
