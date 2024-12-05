@@ -1,0 +1,36 @@
+h2{
+    width: 300px;
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+    line-height: 35px;
+    text-indent: 1em;
+    background-color: blue;
+}
+.dian{
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 30px;
+    background-color: aqua;
+}
+.dian:link{
+    text-decoration: none;
+    color: #0565c6;
+}
+.dian:hover{
+    text-decoration: underline;
+}
+
+.xb{
+    list-style-type: none;
+    font-size: 12px;
+    line-height: 26px;
+}
+.xb:link{
+    text-decoration: none;
+    color: #666666;
+}
+.xb:hover{
+    text-decoration: underline;
+    color: #F60;
+}
