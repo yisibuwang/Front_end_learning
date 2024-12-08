@@ -4,6 +4,12 @@
     <meta charset="UTF-8">
     <title>边框</title>
     <style>
+        body { 
+            margin: 0; /* 清除body默认外边框 */ display: flex; 
+            justify-content: center; /* 让盒子居中对齐 */
+            align-items: center;
+            height: 100vh;
+        }
 
         .box{
             vertical-align: bottom;
@@ -30,12 +36,15 @@
          }
         div:nth-of-type(1) input{
             border: 3px solid black;     /* 第一个div下面的input元素设置边框3px 实线 黑色*/
+            border-bottom: 10px solid black;
         }
         div:nth-of-type(2) input{
             border: 1px dashed red;  /* 第二个div下面的input元素设置边框1px 虚线 红色*/
+            border-bottom: 10px dashed red;
         }
         div:nth-of-type(3) input{
             border: 2px dotted red;   /* 第三个div下面的input元素设置边框2px 点线 红色*/
+            border-bottom: 10px dotted red;
         }
     </style>
 </head>
