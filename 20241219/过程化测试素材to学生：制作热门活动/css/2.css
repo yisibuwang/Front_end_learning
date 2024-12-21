@@ -1,0 +1,33 @@
+li{
+    width: 320px;
+    list-style-type: none;
+    float: left;
+}
+p{
+    font-size: 13px;
+}
+.zhuti{
+    height: 500px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hard{
+    height: 55px;
+    width: 700px;
+}
+.hard1{
+    float: left;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.hard2{
+    float: right;
+    font-size: 20px;
+    font-weight: bolder;
+    color: grey;
+}
+.le{
+    width: 650px;
+    height: 400px;
+}

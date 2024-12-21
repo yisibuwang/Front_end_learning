@@ -1,0 +1,19 @@
+.ul{
+    margin: 0;
+}
+.li{
+    list-style: none;
+}
+.le{
+    float: left;
+}
+.ri{
+    float: right;
+}
+.zhuti{
+    float: left;
+    width: 730px;
+}
+.p{
+    text-align: center;
+}
